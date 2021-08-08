@@ -1,0 +1,18 @@
+.header {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 2rem;
+  justify-content: space-between;
+}
+
+.header nav ul {
+  display: flex;
+  width: 150px;
+  justify-content: space-around;
+  font-weight: bold;
+}
+
+.header nav ul li {
+  list-style: none;
+}
