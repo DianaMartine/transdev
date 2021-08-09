@@ -5,7 +5,7 @@ export default function Footer() {
     <div className={styles.footer}>
       <a href="https://instagram.com/trans_dev/" target="_blank" rel="noreferrer">
         <img
-          src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+          src="instagram-E4405F.svg"
           alt="instagram"
         />
       </a>
@@ -14,13 +14,13 @@ export default function Footer() {
         target="_blank" rel="noreferrer"
       >
         <img
-          src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+          src="YouTube-FF0000.svg"
           alt="youtube"
         />
       </a>{" "}
       <a href="https://github.com/dianamartine" target="_blank" rel="noreferrer">
         <img
-          src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+          src="GitHub-100000.svg"
           alt="github"
         />
       </a>{" "}
